@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "name": "Mohammed Orfali",
+        "img": "",
+        "bio" : "Mohammed Orfali is the head chef and owner of ABC restaurant, an award-winning restaurant in the heart of Chicago. With her culinary degree from Le Cordon Bleu and 15 years of cooking experience, she has been creating delicious meals for customers since 2006",
+        "yearsOfExperience" : 15,
+        "likes" : 354,
+        "recipes" : [
+            {
+                "name" : "Mansaf",
+                "img" : "",
+                "ingredients" : ["pistachio", "pine nuts", "cashews", "walnuts", "almonds"],
+                "cookingMethod" : "Mansaf is a traditional Jordanian dish that consists of lamb cooked with basmati rice or bulgur wheat, yogurt and spices. The dish is finished with an array of nuts like pistachio, pine nuts, cashews, walnuts and almonds. The sauce, or ‘jameed’ coats the meat and served with the meat",
+                "rating" : 5
+            },
+            {
+                "name" : "Kabsa",
+                "ingredients" : ["Meat", "tomatoes", "onions", "garlic", "raisins", "almonds" , "ardamom", "cinnamon", "saffron" , "black pepper"],
+                "cookingMethod" : "Kabsa is a traditional Saudi Arabian dish that consists of rice and meat (usually chicken or lamb) cooked with tomatoes, onions, garlic, raisins, almonds and a variety of spices such as cardamom, cinnamon, saffron and black pepper.",
+                "rating" : 5
+            },
+            {
+                "name" : "Mandi",
+                "ingredients" : ["Rice","cumin", "coriander", "turmeric" , "black pepper"],
+                "cookingMethod" : "Mandi is a traditional Yemeni dish that consists of meat (usually lamb or chicken) cooked with rice and a variety of spices such as cumin, coriander, turmeric and black pepper. The dish is usually served with a side of vegetables and a spicy tomato sauce.",
+                "rating" : 5
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Manal Alalem",
+        "img": "",
+        "bio" : "Manal Alalem is a chef who has worked at many fine restaurants, including Spago and Eleven Madison Park. He has also made several media appearances as an expert chef",
+        "yearsOfExperience" : 7,
+        "likes" : 63,
+        "recipes" : [
+            {
+                "name" : "Shawarma",
+                "ingredients" : ["Meat", "tomatoes", "onions", "garlic", "raisins", "almonds" , "ardamom", "cinnamon", "saffron" , "black pepper"],
+                "cookingMethod" : "Shawarma is a Middle Eastern dish that consists of meat (usually chicken or lamb) cooked on a spit and served in a pita bread with vegetables such as tomatoes, onions and cucumbers. The meat is usually marinated in a variety of spices such as cumin, coriander, paprika and garlic.",
+                "rating" : 5
+            },
+            {
+                "name" : "Falafel",
+                "ingredients" : ["Meat", "tomatoes", "onions", "garlic", "raisins", "almonds" , "ardamom", "cinnamon", "saffron" , "black pepper"],
+                "cookingMethod" : "Falafel is a Middle Eastern dish that consists of ground chickpeas or fava beans mixed with spices such as cumin, coriander and garlic. The mixture is then formed into balls or patties and deep-fried until crispy. The falafel is usually served in a pita bread with vegetables such as tomatoes, onions and cucumbers and a variety of sauces such as tahini sauce or hummus.",
+                "rating" : 5
+            },
+            {
+                "name" : "Hummus",
+                "ingredients" : ["olive oil", "lemon juice", "garlic"],
+                "cookingMethod" : "Hummus is a Middle Eastern dip or spread that is made from cooked and mashed chickpeas blended with tahini (sesame paste), olive oil, lemon juice and garlic. The dip is usually served with pita bread or vegetables such as carrots and celery.",
+                "rating" : 5
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Suzanne Husseini",
+        "img": "",
+        "bio" : "Suzanne Husseini is a chef who has been cooking for over 20 years. He has worked in some of the best restaurants in the world and has won numerous awards for his culinary skills",
+        "yearsOfExperience" : 20,
+        "likes" : 2,
+        "recipes" : [
+            {
+                "name" : "Mansaf",
+                "ingredients" : ["pistachio", "pine nuts", "cashews", "walnuts", "almonds"],
+                "cookingMethod" : "Mansaf is a traditional Jordanian dish that consists of lamb cooked with basmati rice or bulgur wheat, yogurt and spices. The dish is finished with an array of nuts like pistachio, pine nuts, cashews, walnuts and almonds. The sauce, or ‘jameed’ coats the meat and served with the meat",
+                "rating" : 5
+            },
+            {
+                "name" : "Kabsa",
+                "ingredients" : ["Meat", "tomatoes", "onions", "garlic", "raisins", "almonds" , "ardamom", "cinnamon", "saffron" , "black pepper"],
+                "cookingMethod" : "Kabsa is a traditional Saudi Arabian dish that consists of rice and meat (usually chicken or lamb) cooked with tomatoes, onions, garlic, raisins, almonds and a variety of spices such as cardamom, cinnamon, saffron and black pepper.",
+                "rating" : 5
+            },
+            {
+                "name" : "Mandi",
+                "ingredients" : ["Rice","cumin", "coriander", "turmeric" , "black pepper"],
+                "cookingMethod" : "Mandi is a traditional Yemeni dish that consists of meat (usually lamb or chicken) cooked with rice and a variety of spices such as cumin, coriander, turmeric and black pepper. The dish is usually served with a side of vegetables and a spicy tomato sauce.",
+                "rating" : 5
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Ali Fouad Al-Taji",
+        "img": "",
+        "bio" : "Ali Fouad Al-Taji is a chef who has worked at many fine restaurants, including Spago and Eleven Madison Park. He has also made several media appearances as an expert chef",
+        "yearsOfExperience" : 3,
+        "likes" : 83,
+        "recipes" : [
+            {
+                "name" : "Shawarma",
+                "ingredients" : ["Meat", "tomatoes", "onions", "garlic", "raisins", "almonds" , "ardamom", "cinnamon", "saffron" , "black pepper"],
+                "cookingMethod" : "Shawarma is a Middle Eastern dish that consists of meat (usually chicken or lamb) cooked on a spit and served in a pita bread with vegetables such as tomatoes, onions and cucumbers. The meat is usually marinated in a variety of spices such as cumin, coriander, paprika and garlic.",
+                "rating" : 5
+            },
+            {
+                "name" : "Falafel",
+                "ingredients" : ["Meat", "tomatoes", "onions", "garlic", "raisins", "almonds" , "ardamom", "cinnamon", "saffron" , "black pepper"],
+                "cookingMethod" : "Falafel is a Middle Eastern dish that consists of ground chickpeas or fava beans mixed with spices such as cumin, coriander and garlic. The mixture is then formed into balls or patties and deep-fried until crispy. The falafel is usually served in a pita bread with vegetables such as tomatoes, onions and cucumbers and a variety of sauces such as tahini sauce or hummus.",
+                "rating" : 5
+            },
+            {
+                "name" : "Hummus",
+                "ingredients" : ["olive oil", "lemon juice", "garlic"],
+                "cookingMethod" : "Hummus is a Middle Eastern dip or spread that is made from cooked and mashed chickpeas blended with tahini (sesame paste), olive oil, lemon juice and garlic. The dip is usually served with pita bread or vegetables such as carrots and celery.",
+                "rating" : 5
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Moumen Ahmed",
+        "img": "",
+        "bio" : "Moumen Ahmed is a chef who has been cooking for over 20 years. He has worked in some of the best restaurants in the world and has won numerous awards for his culinary skills3",
+        "yearsOfExperience" : 8,
+        "likes" : 786
+    },
+    {
+        "id": 6,
+        "name": "Tarek Ibrahim",
+        "img": "",
+        "bio" : "is the head chef and owner of ABC restaurant, an award-winning restaurant in the heart of Chicago. With her culinary degree from Le Cordon Bleu and 15 years of cooking experience, she has been creating delicious meals for customers since 2006",
+        "yearsOfExperience" : 10,
+        "likes" : 45,
+        "recipes" : [
+            {
+                "name" : "Mansaf",
+                "ingredients" : ["pistachio", "pine nuts", "cashews", "walnuts", "almonds"],
+                "cookingMethod" : "Mansaf is a traditional Jordanian dish that consists of lamb cooked with basmati rice or bulgur wheat, yogurt and spices. The dish is finished with an array of nuts like pistachio, pine nuts, cashews, walnuts and almonds. The sauce, or ‘jameed’ coats the meat and served with the meat",
+                "rating" : 5
+            },
+            {
+                "name" : "Kabsa",
+                "ingredients" : ["Meat", "tomatoes", "onions", "garlic", "raisins", "almonds" , "ardamom", "cinnamon", "saffron" , "black pepper"],
+                "cookingMethod" : "Kabsa is a traditional Saudi Arabian dish that consists of rice and meat (usually chicken or lamb) cooked with tomatoes, onions, garlic, raisins, almonds and a variety of spices such as cardamom, cinnamon, saffron and black pepper.",
+                "rating" : 5
+            },
+            {
+                "name" : "Mandi",
+                "ingredients" : ["Rice","cumin", "coriander", "turmeric" , "black pepper"],
+                "cookingMethod" : "Mandi is a traditional Yemeni dish that consists of meat (usually lamb or chicken) cooked with rice and a variety of spices such as cumin, coriander, turmeric and black pepper. The dish is usually served with a side of vegetables and a spicy tomato sauce.",
+                "rating" : 5
+            }
+        ]
+    }
+    
+]
